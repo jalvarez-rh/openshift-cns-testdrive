@@ -12,5 +12,6 @@ The Admin Ops section of the workshop is divided into two modules: the first mod
 
 === Red Hat Advanced Cluster Management for Kubernetes
 
+The Red Hat Advanced Cluster Management (RHACM) module is designed to provide a hands-on learning experience for IT professionals looking to deploy and manage Kubernetes clusters at scale. The workshop will walk through the deployment and management of Kubernetes clusters using RHACM. Participants will learn how to manage Open shift clusters in various stages, from Hosted Control Plane OpenShift Clusters to Single Nodes and more. We will also automate application deployment and gain visibility into their infrastructure using advanced features such as policy-based governance. 
 
 === Red Hat Advanced Cluster Security for Kubernetes
